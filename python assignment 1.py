@@ -1,8 +1,4 @@
-
-
-
-
-
+#calculator
 
 while True:
     print("\n===== MATHEMATICS CALCULATOR =====")
